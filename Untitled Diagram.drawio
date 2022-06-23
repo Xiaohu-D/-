@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T07:02:09.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="o03FLpSvDFFm1WlZZAke" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T07:39:28.499Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="R_VzMWir9OldvEY1SPvm" version="20.0.2" type="github">
   <diagram id="2DnHEuhvr_0OLsZTUTXN" name="Page-1">
     <mxGraphModel dx="2884" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="__hUjjfLbXIgwgU6XOn6-1" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;eleme_allowance_dish_log_d_v3&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="__hUjjfLbXIgwgU6XOn6-1" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;fg_eleme_allowance_dish_sample_d_v3&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="30" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="__hUjjfLbXIgwgU6XOn6-2" value="日志" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" parent="1" vertex="1">
