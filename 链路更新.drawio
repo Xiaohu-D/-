@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T09:19:35.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Xj7rzg4x9Hp3AX1tg0NA" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T09:20:30.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="W0ru8pF2bQoma6ra2kZ-" version="20.0.3" type="github">
   <diagram id="B8uwFWocY-uwwRqm4x8P" name="Page-1">
     <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="QJylgjxsBixMPj3OxCuE-3" value="2022.1.23-2022.6.21" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" parent="QJylgjxsBixMPj3OxCuE-1" vertex="1">
           <mxGeometry y="60" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QJylgjxsBixMPj3OxCuE-4" value="井冈山历史菜品" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="QJylgjxsBixMPj3OxCuE-4" value="井冈山历史菜品" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1080" y="504" width="310" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QJylgjxsBixMPj3OxCuE-5" value="eleme_allowance_dish_food_history_stat_d_v3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" parent="QJylgjxsBixMPj3OxCuE-4" vertex="1">
@@ -88,7 +88,7 @@
         <mxCell id="QJylgjxsBixMPj3OxCuE-24" value="2021.12.23-2022.6.27" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" parent="QJylgjxsBixMPj3OxCuE-22" vertex="1">
           <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QJylgjxsBixMPj3OxCuE-25" value="用户统计" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="QJylgjxsBixMPj3OxCuE-25" value="用户统计" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="560" y="414" width="320" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QJylgjxsBixMPj3OxCuE-26" value="eleme_allowance_dish_user_history_stat_d_v3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" parent="QJylgjxsBixMPj3OxCuE-25" vertex="1">
@@ -103,7 +103,7 @@
             <mxPoint x="635" y="114" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QJylgjxsBixMPj3OxCuE-29" value="UI表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="QJylgjxsBixMPj3OxCuE-29" value="UI表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="400" y="574" width="330" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QJylgjxsBixMPj3OxCuE-30" value="eleme_allowance_dish_user_item_behavior_d_v3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" parent="QJylgjxsBixMPj3OxCuE-29" vertex="1">
@@ -112,7 +112,7 @@
         <mxCell id="QJylgjxsBixMPj3OxCuE-31" value="2022.5.28-2022.6.27" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" parent="QJylgjxsBixMPj3OxCuE-29" vertex="1">
           <mxGeometry y="60" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QJylgjxsBixMPj3OxCuE-32" value="UV表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="QJylgjxsBixMPj3OxCuE-32" value="UV表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="630" y="694" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QJylgjxsBixMPj3OxCuE-33" value="eleme_allowance_dish_user_visit_stat_d_v3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" parent="QJylgjxsBixMPj3OxCuE-32" vertex="1">
@@ -133,7 +133,7 @@
             <mxPoint x="820" y="564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QJylgjxsBixMPj3OxCuE-37" value="井冈山历史商铺" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="QJylgjxsBixMPj3OxCuE-37" value="井冈山历史商铺" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="970" y="664" width="310" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QJylgjxsBixMPj3OxCuE-38" value="eleme_allowance_dish_shop_history_stat_d_v3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" parent="QJylgjxsBixMPj3OxCuE-37" vertex="1">
@@ -184,7 +184,7 @@
             <mxPoint x="640" y="114" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QJylgjxsBixMPj3OxCuE-50" value="井冈山菜品" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="QJylgjxsBixMPj3OxCuE-50" value="井冈山菜品" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1410" y="644" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QJylgjxsBixMPj3OxCuE-51" value="eleme_allowance_dish_food_stat_d_v3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" parent="QJylgjxsBixMPj3OxCuE-50" vertex="1">
@@ -193,7 +193,7 @@
         <mxCell id="QJylgjxsBixMPj3OxCuE-52" value="2022.5.28-2022.6.27" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" parent="QJylgjxsBixMPj3OxCuE-50" vertex="1">
           <mxGeometry y="60" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QJylgjxsBixMPj3OxCuE-54" value="井冈山商铺" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="QJylgjxsBixMPj3OxCuE-54" value="井冈山商铺" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1200" y="844" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QJylgjxsBixMPj3OxCuE-55" value="eleme_allowance_dish_shop_stat_d_v3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" parent="QJylgjxsBixMPj3OxCuE-54" vertex="1">
