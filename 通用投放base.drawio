@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T07:29:32.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="20.6.0" etag="kFo497n8HKOZVgdfoEdK" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-08T07:34:53.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="20.6.0" etag="0y5HSju2fVU0AiAa9lT1" type="github">
   <diagram id="JAXc5Cckm4LqpkzlMYwL" name="第 1 页">
     <mxGraphModel dx="3996" dy="2751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZxqTLpmNspQJyDMqPG5N-710" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="322" y="-238" width="598" height="138" as="geometry" />
+          <mxGeometry x="270" y="-238" width="650" height="138" as="geometry" />
         </mxCell>
         <mxCell id="ZxqTLpmNspQJyDMqPG5N-721" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZxqTLpmNspQJyDMqPG5N-711" target="ZxqTLpmNspQJyDMqPG5N-598">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZxqTLpmNspQJyDMqPG5N-711" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="956" y="-240" width="598" height="138" as="geometry" />
+          <mxGeometry x="956" y="-240" width="644" height="138" as="geometry" />
         </mxCell>
         <mxCell id="ZxqTLpmNspQJyDMqPG5N-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=16;fillColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="-10" width="500" height="120" as="geometry" />
@@ -2654,10 +2654,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZxqTLpmNspQJyDMqPG5N-597" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;CTR Output&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="552" y="-340" width="168" height="60" as="geometry" />
+          <mxGeometry x="528" y="-340" width="168" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZxqTLpmNspQJyDMqPG5N-598" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;CTR Output&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="1171" y="-340" width="168" height="60" as="geometry" />
+          <mxGeometry x="1195" y="-340" width="168" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZxqTLpmNspQJyDMqPG5N-627" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="340" y="-229.14" width="180" height="100.14" as="geometry" />
@@ -2976,6 +2976,15 @@
         </mxCell>
         <mxCell id="ZxqTLpmNspQJyDMqPG5N-717" value="&lt;font size=&quot;1&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;场景三&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#707070;opacity=1;" vertex="1" parent="1">
           <mxGeometry x="1388" y="-130" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxqTLpmNspQJyDMqPG5N-725" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;font color=&quot;#080808&quot;&gt;&lt;b&gt;CTR Tower 场景联动&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="-206.76" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxqTLpmNspQJyDMqPG5N-726" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZxqTLpmNspQJyDMqPG5N-725" target="ZxqTLpmNspQJyDMqPG5N-725">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZxqTLpmNspQJyDMqPG5N-728" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;font color=&quot;#080808&quot;&gt;&lt;b&gt;CVR Tower 场景联动&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;opacity=1;" vertex="1" parent="1">
+          <mxGeometry x="1556" y="-206.69" width="20" height="53.24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
