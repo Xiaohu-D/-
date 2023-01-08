@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T12:55:41.418Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="20.8.1" etag="Ly5NsT4ssAGpjC3Ncg-O" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-08T13:02:25.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="20.8.1" etag="NqWBSQQt6FBze6IuhhkT" type="github">
   <diagram id="GkkmPTopC5UH_5Wni1HU" name="第 1 页">
     <mxGraphModel dx="3522" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eFSnG9a67pQZfCCRxTpP-3121" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF6666;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1699" y="2682" width="820" height="199" as="geometry" />
+        </mxCell>
         <mxCell id="eFSnG9a67pQZfCCRxTpP-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#707070;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="81" y="505" width="375" height="242" as="geometry" />
         </mxCell>
@@ -1694,6 +1697,33 @@
         </mxCell>
         <mxCell id="eFSnG9a67pQZfCCRxTpP-3120" value="&lt;font size=&quot;1&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;label&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#707070;opacity=1;" vertex="1" parent="1">
           <mxGeometry x="-1071" y="2506" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eFSnG9a67pQZfCCRxTpP-3122" value="&lt;font size=&quot;1&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 16px; font-weight: normal;&quot;&gt;scene 1 负样本&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#707070;opacity=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1856" y="2700.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eFSnG9a67pQZfCCRxTpP-3123" value="&lt;font size=&quot;1&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;scene 2 负样本&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#707070;opacity=1;" vertex="1" parent="1">
+          <mxGeometry x="-1856" y="2801" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eFSnG9a67pQZfCCRxTpP-3124" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eFSnG9a67pQZfCCRxTpP-3122" target="eFSnG9a67pQZfCCRxTpP-3109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1748" y="2750" as="sourcePoint" />
+            <mxPoint x="-1698" y="2700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFSnG9a67pQZfCCRxTpP-3125" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="eFSnG9a67pQZfCCRxTpP-3123" target="eFSnG9a67pQZfCCRxTpP-3110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1837" y="2812" as="sourcePoint" />
+            <mxPoint x="-1787" y="2762" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFSnG9a67pQZfCCRxTpP-3126" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eFSnG9a67pQZfCCRxTpP-3123" target="eFSnG9a67pQZfCCRxTpP-3111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1782" y="2895" as="sourcePoint" />
+            <mxPoint x="-1732" y="2845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFSnG9a67pQZfCCRxTpP-3127" value="&lt;font size=&quot;1&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 16px; font-weight: normal;&quot;&gt;将batch内所有负样本选出，对不同场景，不同难易程度的负样本施加不同权重&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#707070;opacity=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-871" y="2753" width="148" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
