@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T14:39:21.363Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AxWzKH9pJcbPX7Un5ags" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T14:42:43.448Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="x9UIGCkkWv2POPC1zVtH" version="22.1.17" type="github">
   <diagram name="第 1 页" id="hrTzSIRXI5nrNzrqivax">
-    <mxGraphModel dx="3784" dy="4251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3495" dy="4061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="veaDqfcUvnUP4_RMIu-Y-2427" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="541" y="1595" width="389" height="485" as="geometry" />
+        <mxCell id="veaDqfcUvnUP4_RMIu-Y-2427" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#EAFFE9;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="547" y="1592.5" width="373" height="485" as="geometry" />
         </mxCell>
         <mxCell id="veaDqfcUvnUP4_RMIu-Y-2423" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="241.58" y="1619" width="272.5" height="386" as="geometry" />
@@ -13,7 +13,7 @@
         <mxCell id="veaDqfcUvnUP4_RMIu-Y-2421" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-520" y="1557" width="331.98" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="veaDqfcUvnUP4_RMIu-Y-2416" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="veaDqfcUvnUP4_RMIu-Y-2416" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-423" y="1302.33" width="183" height="227.67" as="geometry" />
         </mxCell>
         <mxCell id="veaDqfcUvnUP4_RMIu-Y-2387" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -6541,8 +6541,18 @@
         <mxCell id="veaDqfcUvnUP4_RMIu-Y-2402" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;a5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414.5" y="1432" width="30" height="13" as="geometry" />
         </mxCell>
+        <mxCell id="veaDqfcUvnUP4_RMIu-Y-2435" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="veaDqfcUvnUP4_RMIu-Y-2409">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-34" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="veaDqfcUvnUP4_RMIu-Y-2409" value="CVR Gate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-64.02000000000001" y="1407.33" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="veaDqfcUvnUP4_RMIu-Y-2436" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="veaDqfcUvnUP4_RMIu-Y-2410">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334.75" y="1390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="veaDqfcUvnUP4_RMIu-Y-2410" value="Amt Gate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="304.5" y="1407.33" width="60" height="30" as="geometry" />
@@ -6577,6 +6587,12 @@
         </mxCell>
         <mxCell id="veaDqfcUvnUP4_RMIu-Y-2428" value="Sequence&lt;br&gt;序列个性化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="1610" width="76.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="veaDqfcUvnUP4_RMIu-Y-2429" value="concat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=none;gradientDirection=north;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-108.02" y="1367" width="168.02" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="veaDqfcUvnUP4_RMIu-Y-2433" value="concat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=none;gradientDirection=north;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="242.97000000000003" y="1367" width="168.02" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
